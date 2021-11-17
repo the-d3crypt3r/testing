@@ -1,3 +1,5 @@
+//Rajdeep Das
+
 import java.util.Scanner;
 
 public class LinearEquationsMain 
